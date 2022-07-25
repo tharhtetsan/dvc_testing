@@ -2,3 +2,5 @@
     remote = storage
 ['remote "storage"']
     url = gdrive://1bZZ83FXcx-w4U1k_2WPJtzw2wwxBsX-E
+['remote "myremote"']
+    url = gdrive://1bZZ83FXcx-w4U1k_2WPJtzw2wwxBsX-E
